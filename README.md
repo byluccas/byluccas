@@ -1,16 +1,54 @@
-## Hi there 👋
+# Lucas Jordan Souza 💻
 
-<!--
-**byluccas/byluccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor**
 
-Here are some ideas to get you started:
+📍 Cuiabá-MT | 22 anos | Graduando em Ciências da Computação (7/8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Contato E-mail: devjord4n@gmail.com;
+
+Desenvolvedor Java em formação, apaixonado por tecnologia desde cedo e em busca da primeira oportunidade profissional para aplicar meus conhecimentos e crescer junto à empresa. Comprometido com aprendizado contínuo, busco contribuir com soluções eficientes e evoluir como desenvolvedor, aliando minha base acadêmica à prática no mercado.
+
+🔹 Interesses: Java, Spring Boot, APIs REST, Banco de Dados, PHP
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<br>
+<br>
+
+🔹 Disponível para estágio ou vaga júnior
+
+"A tecnologia move o mundo, e quero fazer parte desse movimento🔥."
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=byluccas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=byluccas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
