@@ -2,13 +2,13 @@
 
 **Desenvolvedor**
 
-📍 Cuiabá-MT | 22 anos | Graduando em Ciências da Computação (7/8)
+📍 Cuiabá-MT | 23 anos | Graduando em Ciências da Computação
 
 - 📫 Contato E-mail: devjord4n@gmail.com;
 
-Desenvolvedor Java em formação, apaixonado por tecnologia desde cedo e em busca da primeira oportunidade profissional para aplicar meus conhecimentos e crescer junto à empresa. Comprometido com aprendizado contínuo, busco contribuir com soluções eficientes e evoluir como desenvolvedor, aliando minha base acadêmica à prática no mercado.
+Desenvolvedor junior ADVPL, apaixonado por tecnologia desde cedo e em busca da primeira oportunidade profissional para aplicar meus conhecimentos e crescer junto à empresa. Comprometido com aprendizado contínuo, busco contribuir com soluções eficientes e evoluir como desenvolvedor, aliando minha base acadêmica à prática no mercado.
 
-🔹 Interesses: Java, Spring Boot, APIs REST, Banco de Dados, PHP
+🔹 Interesses: ADVPL, APIs REST, Banco de Dados, 
 
 <img 
     align="left" 
