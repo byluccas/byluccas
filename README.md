@@ -10,27 +10,6 @@ Desenvolvedor junior ADVPL, apaixonado por tecnologia desde cedo e em busca da p
 
 🔹 Interesses: ADVPL, APIs REST, Banco de Dados, 
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<br>
-<br>
-
-🔹 Disponível para estágio ou vaga júnior
-
 "A tecnologia move o mundo, e quero fazer parte desse movimento🔥."
 
 ### 📊 Estatísticas
